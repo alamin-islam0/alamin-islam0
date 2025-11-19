@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co.com/84RrKwH7/Linked-In-Cover-1584x396-px.jpg" />
-
+<p align="center">
+  <img src="https://i.ibb.co/2YLvnrTk/Linked-In-Cover-1584x396-px.jpg" alt="Cover" width="100%" />
+</p>
 
 **About Me:**
 
