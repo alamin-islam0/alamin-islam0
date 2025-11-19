@@ -1,34 +1,133 @@
-<h1 align="center">Hi 👋, I'm Alamin Islam</h1>
-<h3 align="center">💻 Web Developer | 🚀 Turning Ideas into Interactive Experiences</h3>
+<img src="https://i.ibb.co.com/84RrKwH7/Linked-In-Cover-1584x396-px.jpg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin-islam0&label=Profile%20views&color=0e75b6&style=flat" alt="alamin-islam0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamin-islam0" alt="alamin-islam0" /></a> </p>
+**About Me:**
 
-- 🌱 I’m currently learning **React**
+## 👋 Hi, I'm a Full-Stack MERN Developer
 
-- 👨‍💻 All of my projects are available at [https://alamin-islam.framer.website/projects](https://alamin-islam.framer.website/projects)
+Full-stack MERN developer skilled in **React**, **Next.js**, **Redux**, **Node.js**, **Express**, **JWT** & **MongoDB**.  
+Strong foundation in **HTML**, **CSS**, **Tailwind**, **JavaScript** & **Firebase**.  
 
-- 💬 Ask me about **JavaScript, React, Node js, Next js**
+With **4+ years of experience** working with **WordPress**, **WooCommerce**, **Wix** & **Framer**,  
+I focus on building **fast, scalable, and clean web applications** with modern JavaScript technologies.
 
-- 📫 How to reach me **alamin648890@gmail.com**
+🚀 Always learning. Always building.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h-dusNCeljxbZw01ZA8xRSNE2WW_AeDh/view?usp=sharing](https://drive.google.com/file/d/1h-dusNCeljxbZw01ZA8xRSNE2WW_AeDh/view?usp=sharing)
+##### 🔧 What i use :
 
-- ⚡ Fun fact **I debug faster with coffee ☕ than without.**
+- Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI  
+- Backend: Node.js, Express.js, MongoDB, JWT  
+- Dev Tools: Figma, XD, Canva, Firebase, Git, VS Code, Framer, WixStudio 
+- Practices: Agile development, RESTful API design, Secure authentication, Performance optimization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alaminislam2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaminislam2023" height="30" width="40" /></a>
-<a href="https://fb.com/alamin.islam19.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamin.islam19.19" height="30" width="40" /></a>
-<a href="https://instagram.com/alamin._.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamin._.islam" height="30" width="40" /></a>
+
+
+##### 💬 What Drives Me:
+
+I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
+
+
+## 💡 Skills & Tools
+
+### Core Technologies
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60px" alt="HTML5"/>
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60px" alt="CSS3"/>
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60px" alt="JavaScript"/>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60px" alt="React"/>
+      <br /><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60px" alt="Tailwind CSS"/>
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="60px" alt="Redux"/>
+      <br /><sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png?raw=true" width="60px" alt="Bootstrap"/>
+      <br /><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60px" alt="Firebase"/>
+      <br /><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60px" alt="Node.js"/>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60px" alt="Express.js"/>
+      <br /><sub><b>Express.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" />
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+### Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+##  📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-islam0&show_icons=true&locale=en&layout=compact" alt="alamin-islam0" /></p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=alamin-islam0&show_icons=true&hide_border=true&theme=react&background=0D1117&text_color=00F0FF&icon_color=FF1CF7&title_color=FF1CF7" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamin-islam0&show_icons=true&locale=en" alt="alamin-islam0" /></p>
+## 🔥 GitHub Streaks
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alamin-islam0" alt="GitHub Streak" /></a>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-islam0&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streaks" />
+</p>
+
+
+## 🔥 Top Languages
+
+<div style="display: flex; justify-content: center; overflow: hidden;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-islam0&hide_border=true&theme=react&bg_color=0D1117&text_color=00F0FF&title_color=FF1CF7&card_width=1280&card_height=460" 
+    alt="GitHub Top Languages" 
+    style="max-width: 100%; height: auto;" 
+  />
+</div>
+
+
+## 🤝 Let’s Connect!
+
+I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals. Whether you're hiring, building something cool, or just want to chat tech — feel free to reach out!
+<br />
+<p align="center">
+  <a href="https://www.linkedin.com/alaminislam2023">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/Alamin.islam19.19">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
+  </a>
+</p>
+<br />
+
