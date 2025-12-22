@@ -96,10 +96,10 @@ My focus is on **performance**, **scalability**, and **creating user-friendly di
 # 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/alaminislam2023">
+  <a href="https://www.linkedin.com/in/alaminislam2023/">
     <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
   </a>
-  <a href="https://www.facebook.com/Alamin.islam19.19">
+  <a href="https://www.facebook.com/Alamin.islam19.19/">
     <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
   </a>
 </p>
